@@ -1,5 +1,5 @@
 -- Banana Cat Premium.
--- By DevAurora Code
+-- By estudant
 -- https://discord.gg/pU9ckzwsut
 
 function BuildSchema()
